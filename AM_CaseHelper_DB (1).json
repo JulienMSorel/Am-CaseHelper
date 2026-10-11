@@ -1,0 +1,892 @@
+{
+  "channels": {
+    "Calls": [],
+    "Emails": [
+      "Subject Match"
+    ],
+    "Voicemails": [
+      "Transcript"
+    ]
+  },
+  "departments": [
+    {
+      "name": "Benefits",
+      "instructions": [],
+      "tasks": [],
+      "profiles": [
+        {
+          "name": "Benefits",
+          "instructions": [],
+          "tasks": [],
+          "links": {
+            "Documents": [],
+            "KBs": [],
+            "Misc": []
+          }
+        },
+        {
+          "name": "Disability Insurance",
+          "instructions": [],
+          "tasks": [],
+          "links": {
+            "Documents": [],
+            "KBs": [],
+            "Misc": []
+          }
+        },
+        {
+          "name": "Worker's Compensation",
+          "instructions": [],
+          "tasks": [],
+          "links": {
+            "Documents": [],
+            "KBs": [],
+            "Misc": []
+          }
+        },
+        {
+          "name": "Family Benefits",
+          "instructions": [],
+          "tasks": [],
+          "links": {
+            "Documents": [],
+            "KBs": [],
+            "Misc": []
+          }
+        },
+        {
+          "name": "Adoption Asistance",
+          "instructions": [],
+          "tasks": [],
+          "links": {
+            "Documents": [],
+            "KBs": [],
+            "Misc": []
+          }
+        },
+        {
+          "name": "Identity Theft Protection",
+          "instructions": [],
+          "tasks": [],
+          "links": {
+            "Documents": [],
+            "KBs": [],
+            "Misc": []
+          }
+        },
+        {
+          "name": "Employee Assistance Program",
+          "instructions": [],
+          "tasks": [],
+          "links": {
+            "Documents": [],
+            "KBs": [],
+            "Misc": []
+          }
+        },
+        {
+          "name": "Circles Work-Life Balance Program",
+          "instructions": [],
+          "tasks": [],
+          "links": {
+            "Documents": [],
+            "KBs": [],
+            "Misc": []
+          }
+        }
+      ],
+      "links": {
+        "Documents": [],
+        "KBs": [
+          {
+            "name": "Benefits",
+            "url": "https://hr-portal.sodexonet.com/usa/en-US/Benefits"
+          }
+        ],
+        "Misc": []
+      }
+    },
+    {
+      "name": "Employee Relations",
+      "instructions": [
+        "Standard Department Greeting."
+      ],
+      "tasks": [
+        "Check internal CRM"
+      ],
+      "profiles": [
+        {
+          "name": "Standard",
+          "instructions": [
+            "Verify documentation."
+          ],
+          "tasks": [
+            "Escalate if needed"
+          ],
+          "links": {
+            "Documents": [],
+            "KBs": [],
+            "Misc": []
+          }
+        }
+      ],
+      "links": {
+        "Documents": [],
+        "KBs": [],
+        "Misc": []
+      }
+    },
+    {
+      "name": "Career Growth",
+      "instructions": [],
+      "tasks": [],
+      "profiles": [],
+      "links": {
+        "Documents": [],
+        "KBs": [],
+        "Misc": []
+      }
+    },
+    {
+      "name": "Payroll",
+      "instructions": [],
+      "tasks": [],
+      "profiles": [
+        {
+          "name": "Lost, Stolen or Damaged Paycheck",
+          "instructions": [
+            "<div>Manual Check requests received b<span style=\"font-size: 0.85rem;\">y Close of Business Monday to Thursday will be processed on the following day.</span></div><div><span style=\"font-size: 0.85rem;\"><br></span></div><div>Manual Check requests received b<span style=\"font-size: 0.85rem;\">y Close of Business on Friday will be processed on Tuesday.</span></div>",
+            "<span style=\"font-size: 13.6px;\">Contact Payroll Operations for questions regarding manual checks.</span>"
+          ],
+          "tasks": [
+            "Send affected EE  \"Stop Payment and Check Replacement Form\" and inform to complete Section 3",
+            "Once \"Stop Payment and Check Replacement Form\" is completed send it to Manager or next in command.",
+            "Manager must create a request in \"Payroll Forms Portal\" on MySodexo -> Manual Check Request"
+          ],
+          "links": {
+            "Documents": [
+              {
+                "name": "Stop Payment and Check Replacement Form",
+                "url": "https://hr-portal.sodexonet.com/api/document?identifier=GwFopuTVRV-vRh6tVUX31g"
+              },
+              {
+                "name": "Stop Payment and Check Replacement Form - Spanish",
+                "url": "https://hr-portal.sodexonet.com/api/document?identifier=vMOhv-jtRP-fhbCTKX77YA"
+              }
+            ],
+            "KBs": [
+              {
+                "name": "Lost, Stolen or Damaged Paycheck",
+                "url": "https://hr-portal.sodexonet.com/usa/en-US/Pay/Payroll-Processes/Lost-Stolen-or-Damaged-Paycheck"
+              },
+              {
+                "name": "Lost, Stolen or Damaged Paycheck - Connected",
+                "url": "https://hr-portal.sodexonet.com/usa/en-US/Pay/Payroll-Processes/Lost-Stolen-or-Damaged-Paycheck/Lost-Stolen-or-Damaged-Paycheck---Connected"
+              },
+              {
+                "name": "Lost, Stolen or Damaged Paycheck - HR",
+                "url": "https://hr-portal.sodexonet.com/usa/en-US/Pay/Payroll-Processes/Lost-Stolen-or-Damaged-Paycheck/Lost-Stolen-or-Damaged-Paycheck---HR"
+              },
+              {
+                "name": "Special Pay Situations - Connected",
+                "url": "https://hr-portal.sodexonet.com/usa/en-US/Pay/Payroll-Processes/Special-Pay-Situations---Connected"
+              }
+            ],
+            "Misc": [
+              {
+                "name": "Payroll Forms Portal",
+                "url": "https://www.mysodexo.com/application-resources?appName=Payroll%20Forms"
+              }
+            ]
+          }
+        }
+      ],
+      "links": {
+        "Documents": [],
+        "KBs": [],
+        "Misc": []
+      }
+    },
+    {
+      "name": "Employment and Income Verification",
+      "instructions": [],
+      "tasks": [],
+      "profiles": [],
+      "links": {
+        "Documents": [],
+        "KBs": [],
+        "Misc": []
+      }
+    },
+    {
+      "name": "PTO",
+      "instructions": [],
+      "tasks": [],
+      "profiles": [],
+      "links": {
+        "Documents": [],
+        "KBs": [],
+        "Misc": []
+      }
+    },
+    {
+      "name": "LOA",
+      "instructions": [],
+      "tasks": [],
+      "profiles": [],
+      "links": {
+        "Documents": [],
+        "KBs": [],
+        "Misc": []
+      }
+    },
+    {
+      "name": "IT Support",
+      "instructions": [],
+      "tasks": [],
+      "profiles": [],
+      "links": {
+        "Documents": [],
+        "KBs": [],
+        "Misc": []
+      }
+    },
+    {
+      "name": "Various",
+      "instructions": [],
+      "tasks": [],
+      "profiles": [],
+      "links": {
+        "Documents": [],
+        "KBs": [],
+        "Misc": []
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "id": 2,
+      "name": "ADP - Bypass",
+      "category": "Payroll",
+      "phone": "844-411-3746",
+      "email": "",
+      "notes": "(Internal Use Only)",
+      "email2": "",
+      "fax": "",
+      "address": "",
+      "pinned": true
+    },
+    {
+      "id": 1,
+      "name": "ADP - Employee Self Service",
+      "category": "Payroll",
+      "phone": "877-729-7396",
+      "email": "sodexopayroll@adp.com",
+      "notes": "",
+      "fax": "925-598-9558",
+      "address": "Sodexo Payroll Service Center (ADP) - P.O. Box 17033 Augusta, GA 30903",
+      "email2": "cossragent@adp.com",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
+      "email2Label": "Direct Deposit Email",
+      "faxLabel": "Fax Number",
+      "webLabel": "Web Address",
+      "web": "portal.adp.com",
+      "addressLabel": "Mailing Address",
+      "notesLabel": "Notes",
+      "web2Label": "Registration Site for New Users",
+      "web2": "https://netsecure.adp.com/",
+      "pinned": true
+    },
+    {
+      "id": 5,
+      "name": "Alight - Sodexo Benefits Center",
+      "category": "Benefits",
+      "phoneLabel": "Phone",
+      "phone": "855-668-5040",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web - Connected EE",
+      "web": "https://launcher.myapps.microsoft.com/api/signin/fc52fd19-91e1-4f70-80ab-602da2a360be?tenantId=a289d6c2-3b1f-4bc4-8fa0-6866ff300052",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": "Hours of Operation:\n8 a.m. to 8 p.m. ET, Monday to Friday",
+      "web2Label": "Web - Frontline EE",
+      "web2": "https://worklife.alight.com/ah-angular-afirst-web/?forkPage=false#/web/sodexo/login",
+      "pinned": true
+    },
+    {
+      "id": 13,
+      "name": "IT Help Desk",
+      "category": "IT Support",
+      "phoneLabel": "Phone",
+      "phone": "888-667-9111",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": "",
+      "pinned": true
+    },
+    {
+      "id": 17,
+      "name": "New York Life - Leave of Absence",
+      "category": "LOA",
+      "phoneLabel": "Phone",
+      "phone": "888-842-4462",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "https://www.mynylgbs.com/auth",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": "",
+      "pinned": true
+    },
+    {
+      "id": 19,
+      "name": "Voya - Sodexo 401k Retirement Savings Plan",
+      "category": "Benefits",
+      "phoneLabel": "Phone",
+      "phone": "866-769-7526",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Voya",
+      "web": "https://my.voya.com/voyassoui/index.html?domain=sodexo.voya.com#/login-pweb",
+      "web2Label": "Web Roth 401(k) Contributions",
+      "web2": "https://voyamarketingzone.dmplocal.com/sites/5140/sodexo_roth.html",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": "",
+      "pinned": true
+    },
+    {
+      "id": 9,
+      "name": "ADP - Wage Garnishments",
+      "category": "Payroll",
+      "phoneLabel": "Phone",
+      "phone": "",
+      "emailLabel": "Email",
+      "email": "adpgarnorders@adp.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "909-612-6105",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "ADP Wage Garnishments - One ADP Drive Augusta, GA 30909",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "name": "Benefits Operations",
+      "category": "Benefits",
+      "phoneLabel": "Phone",
+      "phone": "866-372-3159",
+      "emailLabel": "Email",
+      "email": "benefitsoperations.usa@sodexo.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "301-987-4161",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "Sodexo Benefits Operations - 915 Meeting Street Suite 15205 North Bethesda, MD 20852",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 24,
+      "name": "Benefits PTO",
+      "category": "PTO",
+      "pinned": false,
+      "phoneLabel": "Phone",
+      "phone": "",
+      "emailLabel": "Email",
+      "email": "BenefitPTO.USA@sodexo.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "name": "Employee Service Center / Payroll Operations",
+      "category": "Payroll",
+      "phoneLabel": "Phone",
+      "phone": "877-729-7396",
+      "emailLabel": "Email",
+      "email": "payrollops.usa@sodexo.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "716-626-6525",
+      "webLabel": "Web Address",
+      "web": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 25,
+      "name": "Expense Report Team / Accounts Payable Department",
+      "category": "Payroll",
+      "pinned": false,
+      "phoneLabel": "Phone",
+      "phone": "866-372-3162",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 11,
+      "name": "FCE Benefits - SCA Benefits Plans",
+      "category": "Benefits",
+      "phoneLabel": "Phone",
+      "phone": "800-298-7269",
+      "emailLabel": "Email",
+      "email": "sodexobenefits@fcebenefit.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": "Hours of Operation\n8 a.m. to 7 p.m. CT, Monday to Friday"
+    },
+    {
+      "id": 23,
+      "name": "Frontline Job Support",
+      "category": "Career Growth",
+      "pinned": false,
+      "phoneLabel": "Phone",
+      "phone": "",
+      "emailLabel": "Email",
+      "email": "frontlinejobsupport.usa@sodexo.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 26,
+      "name": "Gallagher Bassett - Workers Compensation",
+      "category": "Benefits",
+      "pinned": false,
+      "phoneLabel": "Phone",
+      "phone": "888-872-5676",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "name": "HIPAA Privacy Team",
+      "category": "Benefits",
+      "phoneLabel": "Phone",
+      "phone": "",
+      "emailLabel": "Email",
+      "email": "hipaaprivacy.usa@sodexo.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "name": "HR Canada",
+      "category": "Various",
+      "phone": "",
+      "email": "hrpaf.ca@sodexo.com",
+      "email2": "CAPayroll@sodexo.com",
+      "fax": "",
+      "address": "",
+      "notes": "",
+      "phoneLabel": "Phone",
+      "emailLabel": "HR Team",
+      "email2Label": "Payroll",
+      "faxLabel": "Fax Number",
+      "webLabel": "Employment Confirmation Letter",
+      "web": "hrpaf.ca@sodexo.com",
+      "web2Label": "Web Address",
+      "web2": "https://ca.sodexo.com/contact-us-sodexo",
+      "addressLabel": "Mailing Address",
+      "notesLabel": "Notes"
+    },
+    {
+      "id": 22,
+      "name": "HR Service Center",
+      "category": "Career Growth",
+      "pinned": false,
+      "phoneLabel": "Phone",
+      "phone": "877-729-7396 Option 4 Option 4",
+      "emailLabel": "Email",
+      "email": "servicecenter.usa@sodexo.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "484-229-0058",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 21,
+      "name": "HR Support Services Comms",
+      "category": "Career Growth",
+      "pinned": false,
+      "phoneLabel": "Phone",
+      "phone": "",
+      "emailLabel": "Email",
+      "email": "HRSupportServicesComms.USA@sodexo.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 18,
+      "name": "Inspirus - Sodexo Service Award Center",
+      "category": "Various",
+      "phoneLabel": "Phone",
+      "phone": "8883327110",
+      "emailLabel": "Email",
+      "email": "sodexoawardcenter@inspirus.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "https://www.selectaward.com/",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": "Hours of operation are 7:30 a.m. – 5:00 p.m. CST, Monday - Friday"
+    },
+    {
+      "id": 7,
+      "name": "Money Network",
+      "category": "Payroll",
+      "phoneLabel": "Phone",
+      "phone": "888-913-0900",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "http://account.moneynetwork.com/",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 16,
+      "name": "New York Life - Evidence of Insurability Questions",
+      "category": "LOA",
+      "phoneLabel": "Phone",
+      "phone": "866-607-2360",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": "Hours of Operation\n8 a.m. to 8 p.m. ET, Monday to Friday"
+    },
+    {
+      "id": 15,
+      "name": "New York Life - Insurance Plans",
+      "category": "LOA",
+      "phoneLabel": "Phone",
+      "phone": "800-362-4462",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "https://www.mynylgbs.com/auth",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": "Hours of Operation\n8 a.m. to 8 p.m. ET, Monday to Friday"
+    },
+    {
+      "id": 27,
+      "name": "Payroll Tax Team / Payroll Tax Hotline",
+      "category": "Payroll",
+      "pinned": false,
+      "phoneLabel": "Phone",
+      "phone": "866-372-3161",
+      "emailLabel": "Email",
+      "email": "norampayrolltax@sodexo.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 28,
+      "name": "Personal Mileage Reporting",
+      "category": "Payroll",
+      "pinned": false,
+      "phoneLabel": "Phone",
+      "phone": "888-887-2618",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "name": "Sodexo Benefits Labor Team",
+      "category": "Benefits",
+      "phoneLabel": "Phone",
+      "phone": "800-828-7762 / Option 3, Option 3",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": "Union and Custom Benefit Plan deduction questions"
+    },
+    {
+      "id": 20,
+      "name": "Sodexo Savings Restoration Plan",
+      "category": "Benefits",
+      "phoneLabel": "Phone",
+      "phone": "866-769-7526",
+      "emailLabel": "Email",
+      "email": "edcplanquestions@sodexo.com",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 29,
+      "name": "The Work Number - Employment Verification",
+      "category": "Employment and Income Verification",
+      "pinned": false,
+      "phoneLabel": "Phone for Sodexo Employees",
+      "phone": "800-367-2884",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Phone for Verifiers",
+      "fax": "800-367-5690",
+      "webLabel": "Web Address",
+      "web": "https://www.theworknumber.com/",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "name": "UKG Help Desk",
+      "category": "IT Support",
+      "phoneLabel": "Phone",
+      "phone": "888 667 9111 - Option 6",
+      "emailLabel": "Email",
+      "email": "",
+      "email2Label": "Email 2",
+      "email2": "",
+      "faxLabel": "Fax Number",
+      "fax": "",
+      "webLabel": "Web Address",
+      "web": "",
+      "web2Label": "Web Address 2",
+      "web2": "",
+      "addressLabel": "Mailing Address",
+      "address": "",
+      "notesLabel": "Notes",
+      "notes": ""
+    }
+  ],
+  "sharedLinks": {
+    "Documents": [
+      {
+        "name": "2026 Benefits Enrollment Guide Standard",
+        "url": "https://hr-portal.sodexonet.com/api/document?identifier=1BasJ_23SXe0bTgLzHVlsw"
+      },
+      {
+        "name": "2026 Benefits Enrollment Guide Standard (Spanish)",
+        "url": "https://hr-portal.sodexonet.com/api/document?identifier=giB7i8a3R56oFHDR8jcMRw"
+      },
+      {
+        "name": "New Employee No Cost Benefits Mailer",
+        "url": "https://hr-portal.sodexonet.com/api/document?identifier=bnrV5KF0S3O61Iy0_yI2Og"
+      },
+      {
+        "name": "New Employee No Cost Benefits Mailer (Spanish)",
+        "url": "https://hr-portal.sodexonet.com/api/document?identifier=U3WPUdZmT9y2llv5bWV67g"
+      },
+      {
+        "name": "2026 Checklist for Benefits Eligible Employee / New Hire",
+        "url": "https://hr-portal.sodexonet.com/api/document?identifier=vwbN-fxQTC2gDVAbdqIPzQ"
+      }
+    ],
+    "KBs": [
+      {
+        "name": "Benefits",
+        "url": "https://hr-portal.sodexonet.com/usa/en-US/Benefits"
+      },
+      {
+        "name": "Benefits Plans",
+        "url": "https://hr-portal.sodexonet.com/usa/en-US/Benefits/Benefits-Plans"
+      }
+    ],
+    "Misc": []
+  }
+}
